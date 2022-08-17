@@ -14,6 +14,6 @@ This project aims to create an Indoor RF based Localization System. Localization
 We don't expect students to have in depth knowledge on any of the above topics. However having a basic understanding of Networks, App Development and Machine Learning would certainly help. 
 
 ## Team
-Mentor - Akshat Deo [Github](https://github.com/thenightmaster) +91-9619817485  
+Mentor - Akshat Deo [Github](https://github.com/thenightmaster) [Mail](mailto:f20190090@goa.bits-pilani.ac.in)
 
 Faculty Supervisor - Dr. Sougata Sen [Website](http://sougata-sen.com/)
